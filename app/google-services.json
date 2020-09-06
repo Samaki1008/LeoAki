@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723793111290",
+    "firebase_url": "https://leoaki-dfd5c.firebaseio.com",
+    "project_id": "leoaki-dfd5c",
+    "storage_bucket": "leoaki-dfd5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723793111290:android:bd39812e2882e8319b8143",
+        "android_client_info": {
+          "package_name": "com.example.leoaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723793111290-hvqvt3h40l6cvp66a7vasntu1tcn3440.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbE3Ch5B6TZXH7q9wsuR-W30mwWbZ_do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723793111290-hvqvt3h40l6cvp66a7vasntu1tcn3440.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
